@@ -1,0 +1,6 @@
+
+Format pliku Markdown (MD) to lekki i łatwy w użyciu sposób formatowania tekstu, który został stworzony do tworzenia prostych dokumentów, takich jak README w repozytoriach kodu, notatniki, strony internetowe itp. Pliki Markdown są zwykle zapisywane z rozszerzeniem .md lub .markdown.
+
+Markdown pozwala na szybkie tworzenie sformatowanego tekstu, używając prostego zestawu znaczników tekstowych, które są łatwe do zapamiętania i czytelne nawet w postaci nieprzetworzonej. Na przykład, używa się gwiazdek () lub podkreślników (_) do oznaczania tekstu jako pogrubionego lub kursywy, znaków hasha (#) do tworzenia nagłówków różnych poziomów, oraz myślników (-) lub gwiazdek () do tworzenia list wypunktowanych.
+
+Markdown pozwala również na osadzanie kodu źródłowego, tworzenie odnośników, obrazków, tabel i wiele innych przydatnych elementów, co czyni go popularnym wyborem wśród programistów, pisarzy, bloggerów i innych osób potrzebujących prostego, ale elastycznego sposobu formatowania tekstu.
