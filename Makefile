@@ -9,5 +9,5 @@ run:
 	python3.10 main.py
 
 .PHONY: test
-test:
+test: 
 	PYTHONPATH=. py.test --verbose -s
